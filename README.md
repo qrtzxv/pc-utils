@@ -1,8 +1,8 @@
-## pc-setup
+# pc-setup
 
 
 
-# 🖥️ 
+## 🖥️ 
 
 Repos
 - [Alternative Front Ends](https://github.com/mendel5/alternative-front-ends)
@@ -14,7 +14,7 @@ Repos
 
 🧹 [BleachBit](https://github.com/bleachbit/bleachbit)
 
-🎥 [yt-dlp](https://github.com/yt-dlp/yt-dlp)
+🎞️ [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 
 ⚙️ [Universal Android Debloater](https://github.com/0x192/universal-android-debloater)
 
@@ -30,10 +30,11 @@ Repos
 
 📱 [MIUI Debloater](https://github.com/kirthandev/MIUI-Debloater-official)
 
+📱 [scrcpy](https://github.com/Genymobile/scrcpy)
 
 
 
-# 🐧 Linux 🐧 
+## 🐧 Linux 🐧 
 
 🔋 [bat](https://github.com/tshakalekholoane/bat)
 
@@ -46,11 +47,13 @@ Repos
 
 
 
-# 🪟 Windows 🪟
+## 🪟 Windows 🪟
 
 📜 [Microsoft Activation Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)
 
 📜 [WinUtil](https://github.com/ChrisTitusTech/winutil)
+
+🔧 [O&O ShutUP10++](https://www.oo-software.com/en/shutup10)
 
 ⚙️ [TaskbarX](https://github.com/ChrisAnd1998/TaskbarX)
 
