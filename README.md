@@ -36,6 +36,8 @@ Repos
 
 📃 [FOSS Front-Ends and Alternatives](https://www.funkyspacemonkey.com/foss-front-ends-and-alternatives-for-twitter-instagram-reddit-youtube-and-more) //outdated 
 
+💬 [Discord desktop theme editor](https://bdeditor.dev/)
+
 
 ## 🐧 Linux 🐧 
 
