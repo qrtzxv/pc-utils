@@ -5,8 +5,8 @@
 ## 🖥️ 
 
 Repos
-- [Alternative Front Ends](https://github.com/mendel5/alternative-front-ends)
-- [Awesome Privacy](https://github.com/pluja/awesome-privacy)
+  - [Alternative Front Ends](https://github.com/mendel5/alternative-front-ends)
+  - [Awesome Privacy](https://github.com/pluja/awesome-privacy)
 
 📓 [Obsidian.md](https://github.com/obsidianmd/obsidian-releases)
 
@@ -25,13 +25,16 @@ Repos
 🪞 [LookingGlass](https://github.com/gnif/LookingGlass)
 
 💬 [Discord Clients](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties) 
--  [ArmCord](https://github.com/ArmCord/ArmCord)
--  [Replugged](https://github.com/replugged-org/replugged)
+  -  [ArmCord](https://github.com/ArmCord/ArmCord)
+  -  [Replugged](https://github.com/replugged-org/replugged)
 
 📱 [MIUI Debloater](https://github.com/kirthandev/MIUI-Debloater-official)
 
 📱 [scrcpy](https://github.com/Genymobile/scrcpy)
 
+📱 [Android SDK Platform-Tools - Android Debug Bridge](https://developer.android.com/tools/releases/platform-tools)
+
+📃 [FOSS Front-Ends and Alternatives](https://www.funkyspacemonkey.com/foss-front-ends-and-alternatives-for-twitter-instagram-reddit-youtube-and-more) //outdated 
 
 
 ## 🐧 Linux 🐧 
@@ -41,8 +44,8 @@ Repos
 🖥️ [Hyprland](https://github.com/hyprwm/Hyprland)
 
 🍚 Ricing
-- 🛠️ [awesome ricing](https://github.com/fosslife/awesome-ricing)
-- 🎨 [Catpuccin](https://github.com/catppuccin/catppuccin)
+  - 🛠️ [awesome ricing](https://github.com/fosslife/awesome-ricing)
+  - 🎨 [Catpuccin](https://github.com/catppuccin/catppuccin)
 
 
 
@@ -68,3 +71,12 @@ Repos
 🔧 [tdm-gcc](https://github.com/jmeubank/tdm-gcc)
 
 📱 [Windows Subsystem for Android](https://github.com/MustardChef/WSABuilds)
+
+🔧 [Norton Power Eraser](https://support.norton.com/sp/en/us/home/current/solutions/kb20100824120155EN)
+
+🎞️ [Best Virus Removal Tools: Cleaning a deeply infected system - The PC Security Channel](https://www.youtube.com/watch?v=-nkVzJ1V0rM)
+
+🌐 [LibreWolf Updater for Win10](https://codeberg.org/ltGuillaume/LibreWolf-WinUpdater)
+
+
+
