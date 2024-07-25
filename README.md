@@ -38,6 +38,10 @@ Repos
 
 💬 [Discord desktop theme editor](https://bdeditor.dev/)
 
+🍚 Ricing 
+  - 🗺️ [Awesome Ricing ; ricing guide and/or repo](https://github.com/fosslife/awesome-ricing) 
+  - ➖ [Zebar ; cross-platform bar](https://github.com/glzr-io/zebar) 
+
 
 ## 🐧 Linux 🐧 
 
@@ -80,5 +84,5 @@ Repos
 
 🌐 [LibreWolf Updater for Win10](https://codeberg.org/ltGuillaume/LibreWolf-WinUpdater)
 
-
+🍚 [GlazeWM](https://github.com/glzr-io/glazewm)
 
