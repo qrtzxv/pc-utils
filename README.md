@@ -5,6 +5,18 @@
 
 ## 🖥️ 
 
+### Browsers 
+
+[Librewolf](https://codeberg.org/librewolf/website) ; a custom and independent version of Firefox, with the primary goals of privacy, security and user freedom. 
+
+[Firefox](https://www.mozilla.org/en-US/firefox/new/)
+
+[Zen Browser](https://github.com/zen-browser/desktop) ; Experience tranquillity while browsing the web without people tracking you! 
+
+[Thorium](https://thorium.rocks/) ; Chromium fork for Linux, Windows, MacOS, Android, and Raspberry Pi named after radioactive element No. 90.
+
+[Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium) ; 
+
 Repos
   - [Alternative Front Ends](https://github.com/mendel5/alternative-front-ends)
   - [Awesome Privacy](https://github.com/pluja/awesome-privacy)
